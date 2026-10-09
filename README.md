@@ -1,5 +1,7 @@
 # Create Context Graph
 
+> This is an experimental Neo4j Labs project and not part of Neo4j's supported product lineup. See the [Neo4j Labs disclaimer](./LABS_DISCLAIMER.txt).
+
 [![Neo4j Labs](https://img.shields.io/badge/Neo4j_Labs-blue?logo=neo4j)](https://neo4j.com/labs/)
 [![Docs](https://img.shields.io/badge/docs-docusaurus-green)](https://create-context-graph.dev/)
 
